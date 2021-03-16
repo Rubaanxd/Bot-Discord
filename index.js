@@ -30,6 +30,4 @@ client.on("message", function (message) {
 
 });
 
-
-
 client.login(token); //Coneccion a Discord
