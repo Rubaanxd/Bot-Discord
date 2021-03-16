@@ -5,7 +5,15 @@ const { prefix, token } = require("./config.json");
 
 client.once('ready', () => {
 	console.log('Ready!');
+	client.user.setPresence({
+		status: "idle",
+		game: {
+			name: "Wof Wof",
+			type: "PLAYING"
+		}
+	});
 });
+
 //Escuchando mensajes
 client.on("message", function (message) {
 	if (message.author.bot) return;
