@@ -5,8 +5,8 @@ module.exports = {
         message.channel.send({
             embed: {
                 color: "#6441a5",
-                title: "RubaanxD , Markarlitos",
-                description: "Para mas informacion escribe !streamer nombre del streamer"
+                title: "rubaanxd , mankarlitos",
+                description: "Para mas informacion escribe .streamer nombre del streamer"
             }
         });
     }

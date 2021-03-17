@@ -32,7 +32,6 @@ module.exports = {
                 { name: 'Viernes', value: 'De 9:00 PM a 1:00 AM', inline: true },
             )
             .setImage("https://i.ibb.co/Wt4FVbB/mankarlitos.png")
-
         switch (args[0]) {
             case "foo":
                 message.channel.send("bar");
