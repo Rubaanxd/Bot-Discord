@@ -1,7 +1,9 @@
 {
   "dependencies": {
+    "discord-music-player": "^7.0.0-fix3",
     "discord.js": "^12.5.1",
     "dotenv": "^8.2.0",
-    "fs": "^0.0.1-security"
+    "fs": "^0.0.1-security",
+    "opusscript": "^0.0.8"
   }
 }
