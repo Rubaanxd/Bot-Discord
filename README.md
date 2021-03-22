@@ -1,6 +1,19 @@
-# Bot-Discord
+# La Kimberlis - Discord Bot usando Node.js
 
-## Vision
-Ser un excelente bot de discord, completamente personalizable, que pueda reproducir musica (Youtube y Spotify), manejar rangos autoasignables, mensajes de bienvenida y despedida asi como en un futuro poder conectarlo con twitch para que sirva a los streamers.
+### Mision
+Ser un util.
 
-## Toda Ayuda es bien recibida. Sientanse libres de poder ocuparlo y mejorarlo para que mas gente lo pueda ocupar.
+### Skills (in progress)
+Reproduccion de musica.
+Administrar y asignar Rangos.
+Mensajes de bienvenida y despedida.
+Añadir reacciones a los mensajes.
+
+### NPM's requeridos
+- npm install --save fs
+- npm install --save discord.js
+- npm install --save opusscript
+- npm install --save ffmpeg
+- npm install --save discord-music-player
+
+#### Aun no manejo bien JS si tienen alguna sugerencia o quieren ayudar al proyecto, sientanse libres de hacerlo.
